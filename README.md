@@ -261,3 +261,7 @@ Jupyter:
 - JupyterLab
 -- editing python and notebooks
 -- in a more IDE like environment
+
+____
+
+[What is Jupyter Notebook and JupyterLab?](https://freelearning.anaconda.cloud/get-started-with-anaconda/18571)
