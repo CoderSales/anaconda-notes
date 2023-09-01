@@ -227,3 +227,37 @@ conda deactivate
 
 - IDE Integrated Development Environment
 - Python IDE's
+
+@00:24 :
+
+An IDE has:
+
+1. text editor
+2. integrated build tools
+   - for compiling languages like:
+   - C, C++, Go, Rust
+3. integrated debugger
+   - tool helps fic errors in code
+
+@00:39:
+
+An IDE brings these 3 elements together in a single interface
+
+@00:47:
+
+Popular python IDE's
+
+@01:19:
+
+- Spyder has similarities with MATLAB
+
+@01:27:
+
+Jupyter:
+
+- jupyter notebooks
+-- file browser
+-- notebook editor
+- JupyterLab
+-- editing python and notebooks
+-- in a more IDE like environment
