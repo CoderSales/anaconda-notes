@@ -222,3 +222,8 @@ Deactivate environment before switching to another environment
 ```bash
 conda deactivate
 ```
+
+[What is an IDE?](https://freelearning.anaconda.cloud/get-started-with-anaconda/36655) :
+
+- IDE Integrated Development Environment
+- Python IDE's
