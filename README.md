@@ -168,3 +168,25 @@ you can search for it on:
 [anaconda.org](https://anaconda.org/)
 where robust channels like conda forge host
 many additional packages
+
+@02:45
+
+to install a package from
+
+`conda forge`
+
+for example
+
+add 
+
+```bash
+-c
+```
+
+to the channel name
+
+e.g. :
+
+```bash
+conda install -c conda-forge conda-stats
+```
