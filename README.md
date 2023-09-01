@@ -159,3 +159,12 @@ e.g. :
 ```bash
 conda install jupyterlab dask pandas hvplot
 ```
+
+@02:35:
+
+If you cannot find a package on
+`the default conda channel`
+you can search for it on:
+[anaconda.org](https://anaconda.org/)
+where robust channels like conda forge host
+many additional packages
