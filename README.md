@@ -5,7 +5,7 @@ Notes on Anaconda
 
 ### [What are Modules, Packages, and Libraries?](https://freelearning.anaconda.cloud/get-started-with-anaconda/19826):
 
-@01:13
+@01:13:
 Tools
 
 Data Analysis
@@ -44,7 +44,7 @@ for all programming languages:
 - C/C++
 - FORTRAN
 
-@00:21
+@00:21:
 
 A cooking analogy:
 - conda like a kitchen
@@ -56,7 +56,7 @@ A cooking analogy:
 - in conda each package may depend on other packages
 - e.g. when install package: pandas, automatically install other packages that depends on like NumPy.
 
-@01:13  
+@01:13: 
 
 - packages are like recipies
 - you may use one prepared by someone else with recipe and ingredients. -> reproducible meal
@@ -64,7 +64,7 @@ A cooking analogy:
 - create a reproducible environment from an environment.yml file you or others created
 - can pin versions of packages in environment.
 
-@01:51
+@01:51:
 Recommended: Create separate environments per project
 
 Environment management:
@@ -75,7 +75,7 @@ Environment management:
 
 ### [Conda Workflow: Creating Environments, Installing Packages, and Launching an IDE](https://freelearning.anaconda.cloud/get-started-with-anaconda/18202)
 
-@00:18
+@00:18:
 
 #### A Conda Workflow:
 
@@ -84,3 +84,13 @@ Environment management:
 3. install packages
 4. launch JupyterLab
 5. deactivate environment
+
+@00:34:
+1. Create environment
+
+on Windows: open `anaconda prompt`
+`conda --version`
+`conda env list`
+- you always begin in base environment
+- always create a new environment
+- never work in base
