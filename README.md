@@ -134,10 +134,28 @@ conda env list
 
 ensure new environment: `example` is in your environment list
 
-@02:04
+@02:04:
 
 to activate:
 
 ```bash
 conda activate example
+```
+
+@02:12:
+
+once in new environment:
+
+```bash
+conda list
+```
+
+to see installed packages
+
+can install multiple packages in one command:
+
+e.g. :
+
+```bash
+conda install jupyterlab dask pandas hvplot
 ```
