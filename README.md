@@ -219,6 +219,6 @@ Deactivate environment before switching to another environment
 
 @03:52:
 
-'''bash
+```bash
 conda deactivate
 ```
