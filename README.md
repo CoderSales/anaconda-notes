@@ -150,6 +150,8 @@ once in new environment:
 conda list
 ```
 
+3. install packages
+
 to see installed packages
 
 can install multiple packages in one command:
@@ -189,4 +191,34 @@ e.g. :
 
 ```bash
 conda install -c conda-forge conda-stats
+```
+
+4. launch jupyterlab
+
+```bash
+jupyter-lab
+```
+
+@03:20 to @03:30
+
+working in jupyter-lab in browser example
+
+@03:30:
+
+to end jupyter lab session:
+
+`Ctrl + C`
+
+@03:44:
+
+5. deactivate environment
+
+Best practice:
+Deactivate environment before switching to another environment
+- once working with multiple projects
+
+@03:52:
+
+'''bash
+conda deactivate
 ```
