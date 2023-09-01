@@ -1,6 +1,8 @@
 # anaconda-notes
 Notes on Anaconda
 
+## [anaconda cloud](https://anaconda.cloud/)
+
 ## [freelearning.anaconda.cloud](https://freelearning.anaconda.cloud/)
 
 ### [What are Modules, Packages, and Libraries?](https://freelearning.anaconda.cloud/get-started-with-anaconda/19826):
