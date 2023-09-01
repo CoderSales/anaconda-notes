@@ -72,3 +72,15 @@ Environment management:
   - ML/AI Project
   - ETL dashboarding project
   - R project
+
+### [Conda Workflow: Creating Environments, Installing Packages, and Launching an IDE](https://freelearning.anaconda.cloud/get-started-with-anaconda/18202)
+
+@00:18
+
+#### A Conda Workflow:
+
+1. create environment
+2. activate environment
+3. install packages
+4. launch JupyterLab
+5. deactivate environment
