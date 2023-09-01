@@ -89,8 +89,20 @@ Environment management:
 1. Create environment
 
 on Windows: open `anaconda prompt`
-`conda --version`
-`conda env list`
+```bash
+conda --version
+```
+
+```bash
+conda env list
+```
+
 - you always begin in base environment
 - always create a new environment
 - never work in base
+
+@01:07
+
+```bash
+conda create --name example
+```
