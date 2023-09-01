@@ -106,3 +106,38 @@ conda env list
 ```bash
 conda create --name example
 ```
+
+can create environment with a specific version of python:
+
+e.g. :
+
+```bash
+conda create --name examnple python=3.9
+```
+
+@01:41
+
+2. Activate Environment
+
+moves you out of `base` into -> new environment e.g. `example`
+- here you can install separate
+- distinct versions of python
+- and packages
+- specifically for your project
+- without affecting `base` environment packages.
+
+Rerun:
+
+```bash
+conda env list
+```
+
+ensure new environment: `example` is in your environment list
+
+@02:04
+
+to activate:
+
+```bash
+conda activate example
+```
